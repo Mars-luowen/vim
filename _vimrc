@@ -532,3 +532,4 @@ let blog.template_ext      = '.html'
 let blog.auto_export       = 1
 
 let g:vimwiki_list = [blog]
+'======================================='
